@@ -1,2 +1,2 @@
 # delta-demo1
-Practice repo
+Practice repository 
